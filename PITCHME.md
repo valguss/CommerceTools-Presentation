@@ -21,13 +21,13 @@ World Of Books - https://www.worldofbooks.com/en-gb
 - All channels have up to date stock info
 - They now don't see a finite end of using CommerceTools
   - They considered M2 but saw a EOL for it
-  
+---
 ## Other advantages
 - They have an inhouse dev team that make the frontend updates
 - The connect to different API's for best in class experience.
   - Not bound by what magento etc allow
   - Add in Contentful content where ever they want it
-  
+---
 ## Anything else?
 - They showed us some of their frontend testing suite for Laura Ashley
 - They rekon they took 18months of Selenium work from previous developers, and rewrote it in 6 weeks by 2.5/3 resources to Cucumber/Gherkin
