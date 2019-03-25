@@ -1,6 +1,6 @@
 # Headless Commerce
-- Commerce Tools - https://commercetools.com/
-- World Of Books - https://www.worldofbooks.com/en-gb
+- Commerce Tools - <a target="_blank" href="https://commercetools.com/">https://commercetools.com/</a>
+- World Of Books - <a target="_blank" href="https://www.worldofbooks.com/en-gb">https://www.worldofbooks.com/en-gb</a>
 ---
 
 ## World Of Books
@@ -17,7 +17,7 @@
 ---
 ## What have they gained
 - Apparently went from 1% to 12% revenue through website
-  - I forgot to ask what thye put this jump down to
+  - I forgot to ask what they put this jump down to
 - All channels have up to date stock info
 - They now don't see a finite end of using CommerceTools
   - They considered M2 but saw a EOL for it
