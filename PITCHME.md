@@ -1,6 +1,6 @@
 # Headless Commerce
-Commerce Tools - https://commercetools.com/
-World Of Books - https://www.worldofbooks.com/en-gb
+- Commerce Tools - https://commercetools.com/
+- World Of Books - https://www.worldofbooks.com/en-gb
 ---
 
 ## World Of Books
@@ -11,7 +11,7 @@ World Of Books - https://www.worldofbooks.com/en-gb
 ---
 ## Why the move?
 - 1M+ products
-- Indexers where not coping with the updates (hours instead of minutes)
+- Indexers were not coping with the updates (hours instead of minutes)
 - Multi channel. They were using Magmi CSV import/Export
 - Need stock updates similar to C+B
 ---
@@ -24,11 +24,11 @@ World Of Books - https://www.worldofbooks.com/en-gb
 ---
 ## Other advantages
 - They have an inhouse dev team that make the frontend updates
-- The connect to different API's for best in class experience.
+- They connect to different API's for best in class experience.
   - Not bound by what magento etc allow
   - Add in Contentful content where ever they want it
 ---
 ## Anything else?
 - They showed us some of their frontend testing suite for Laura Ashley
-- They rekon they took 18months of Selenium work from previous developers, and rewrote it in 6 weeks by 2.5/3 resources to Cucumber/Gherkin
+- They reckon they took 18months of Selenium work from previous developers, and rewrote it in 6 weeks by 2.5/3 resources to Cucumber/Gherkin
 - What that? Natural language testing. Similar to how we now write our DD's
